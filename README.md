@@ -11,14 +11,14 @@ Learn the Linux filesystem and basic navigation commands.
 
 Linux is the primary operating system used for embedded systems, semiconductor validation, automation, and firmware development.
 
-##Commands learned
+## Commands learned
 
 -pwd
 -ls
 -mkdir
 -touch
 
-##Notes
+## Notes
 
 Today I learned how linux organizes files and folders
 I also learned how to navigate directories using Linux commands.
