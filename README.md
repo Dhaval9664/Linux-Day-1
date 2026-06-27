@@ -13,3 +13,4 @@ Linux Filesystem and Navigation
 ##Notes
 
 Today I learned how linux organizes files and folders
+I also learned how to navigate directories using Linux commands.
