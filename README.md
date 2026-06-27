@@ -13,7 +13,7 @@ Linux is the primary operating system used for embedded systems, semiconductor v
 
 ## Commands learned
 
-- 'pwd' - shows the current working directory.
+- `pwd` - shows the current working directory.
 - 'ls' - List files and directories.
 - 'mkdir' - Creates a new direcctory.
 - 'touch' - Create an empty file.
