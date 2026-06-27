@@ -1,0 +1,7 @@
+pwd
+ls
+ls -1
+ls -a
+mkdir Day 1
+cd Day1
+touch Linux_notes.txt
